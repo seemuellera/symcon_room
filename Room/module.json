@@ -1,0 +1,14 @@
+{
+  "id": "{AC949CD2-A201-46CD-958E-F1D78B2E06A7}",
+  "name": "Room",
+  "type": 3,
+  "vendor": "Andreas Seemüller",
+  "aliases": 
+  [
+	  "Room"
+  ],
+  "parentRequirements": [],
+  "childRequirements": [],
+  "implemented": [],
+  "prefix": "ROOM"
+}
